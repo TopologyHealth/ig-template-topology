@@ -1,9 +1,9 @@
 {
-  "name" : "fhir.base.template",
-  "type" : "fhir.template",
+  "name" : "topology.base.template",
+  "type" : "topology.template",
   "license" : "CC0-1.0",
   "description" : "FHIR IG Base Template - foundational for use by anyone",
-  "author" : "http://hl7.org/fhir",
-  "canonical" : "http://fhir.org/templates/fhir.base.template",
-  "version" : "0.8.1"
+  "author" : "http://topology.health",
+  "canonical" : "http://topology.health/templates/topology.base.template",
+  "version" : "0.1.0"
 }
