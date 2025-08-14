@@ -83,10 +83,9 @@ java -jar publisher.jar -ig .
 
 ## Support
 
-For questions or issues with HL7 templates:
-
-- Check [FHIR IG Publisher documentation](https://confluence.hl7.org/display/FHIR/IG+Publisher+Documentation)
-- Check [Extending the HL7 IG Templates](https://build.fhir.org/ig/FHIR/ig-guidance/template.html)
+For questions or issues with this template:
+- Check the [FHIR IG Publisher documentation](https://confluence.hl7.org/display/FHIR/IG+Publisher+Documentation)
+- Review the [HL7 IG Template Guide](https://confluence.hl7.org/display/FHIR/Implementation+Guide+Template+Guide)
 
 ## License
 
