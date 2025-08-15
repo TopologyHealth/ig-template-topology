@@ -15,9 +15,9 @@
     --stu-note-border-left-color: #e7bad7; /* 20. (STU) Note box border color - Updated to pink */
   }
   
-  #segment-footer > .container {background-color: #222373;}
-      .navbar-inverse {background-color: #e7bad7;}
-  
+  #segment-footer > .container {background-color: #e7bad7;}
+      .navbar-inverse {background-color: #222373;}
+      
   #hl7-nav {
     line-height: 50px;
     float: left;
