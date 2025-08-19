@@ -34,6 +34,8 @@ java -jar publisher.jar -ig .
 ./scripts/ant.xml
 ```
 
+> Note there is no published in this repo. You will need to create an IG to use this template.
+
 ## File Structure
 
 ```
@@ -67,7 +69,9 @@ For questions or issues with this template:
 
 ## License
 
-This template is licensed under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) - you are free to use, modify, and distribute it without restrictions.
+The Topology IG Template is based on the [HL7 template](https://github.com/HL7/ig-template-base).
+
+This template is copyright Topology Health 2025.
 
 ## Version
 
