@@ -2,3 +2,4 @@
 .index.json
 .index.db
 .DS_Store
+sandbox/*
