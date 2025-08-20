@@ -1,0 +1,45 @@
+/* Product families should override the following colors with family-specific colors */
+:root {
+    --navbar-bg-color: #222373; /* 2. Header container color - Updated to blue */
+    --footer-bg-color: #707070; /* 3. Footer background color - Updated to blue */
+    --footer-container-bg-color: #222373; /* 4. Footer container color - Updated to blue */
+    --btn-hover-color: #e7bad7;  /* 6. Menu button hover color - Updated to pink */
+  }
+  
+  /* Generic settings common to all HL7 IGs */
+  :root {
+    --stripe-bg-color: #999999; /* 5. Header strip color - Updated to blue */
+    --btn-active-color: #222373; /* 7. Menu button active color - Updated to blue */
+    --btn-text-color: #ffffff; /* 8. Menu button text color - Updated to white for better contrast */
+    --stu-note-background-color: #fef7fd; /* 19. (STU) Note box background color - Updated to light pink */
+    --stu-note-border-left-color: #e7bad7; /* 20. (STU) Note box border color - Updated to pink */
+  }
+  
+  #segment-footer > .container {background-color: #222373;}
+      .navbar-inverse {background-color: #222373;}
+      
+  #hl7-nav {
+    line-height: 50px;
+    float: left;
+    margin-top: 4px;
+  }
+  
+  #hl7-nav a {
+    color: inherit;
+  }
+  
+  #hl7-logo {
+    float: left;
+    margin-left: 6px;
+  }
+  #project-nav {
+    line-height: 50px;
+    float: left;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    color: #808080;
+  }
+  #project-logo {
+    float: left;
+    margin-left: 3px;
+  }
